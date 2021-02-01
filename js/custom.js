@@ -1,4 +1,4 @@
-'use strict';
+/* 'use strict';
 $(document).ready(function() {
 
     // Accordion
@@ -47,9 +47,9 @@ $(document).ready(function() {
     // End roduct detail
 
 });
-
+ */
 /* hamburger navigation */
-
+/* 
 $("#navToggle").click(function () {
     $(this).toggleClass("active");
     $(".overlay").toggleClass("open");
@@ -63,5 +63,11 @@ $(".overlay a").click(function () {
     $("body").toggleClass("locked");
 });
 
-
+ */
 /* hamburger navigation */
+
+/* smooth scroll */
+
+
+
+/* smooth scroll */

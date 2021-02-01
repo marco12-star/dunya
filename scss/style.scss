@@ -48,16 +48,19 @@
         svg {
             position: relative;
             fill: white;
-            height: 100px;
+            height: 80px;
+            path {
+                transform: translateY(-17px);
+            }
             .arrow-downn {
                 animation: down ease 1.5s infinite;
             }
             @keyframes down{
                 0% {
-                    transform: translateY(0);
+                    transform: translateY(-17px);
                 }
                 30% {
-                    transform: translateY(60%);
+                    transform: translateY(30%);
                 }
             }
         }
